@@ -5,3 +5,6 @@
 	path = ros_ws/src/velodyne
 	url = https://github.com/ros-drivers/velodyne.git
 	branch = jazzy-devel
+[submodule "ros_ws_ouster/src/ouster-ros"]
+	path = ros_ws_ouster/src/ouster-ros
+	url = https://github.com/ouster-lidar/ouster-ros.git
